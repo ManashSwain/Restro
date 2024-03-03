@@ -50,4 +50,3 @@ Contact
 
 If you have any questions or suggestions regarding the project, feel free to reach out to us at manash0802@gmail.com
 
-Feel free to customize this README to fit your specific project details and requirements!
