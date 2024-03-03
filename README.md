@@ -37,7 +37,7 @@ Contributing
 We welcome contributions from the community to improve and enhance this project. If you'd like to contribute, please follow these steps:
 
     Fork the repository.
-    Create a new branch (git checkout -b feature-improvement).
+    Create a new branch (git checkout -b feature-improvement)
     Make your changes.
     Commit your changes (git commit -am 'Add new feature').
     Push to the branch (git push origin feature-improvement).
