@@ -21,8 +21,6 @@ Getting Started
 
 To get started with the project, simply clone this repository to your local machine:
 
-bash
-
 git clone  https://github.com/ManashSwain/Restro.git
 
 Once you have the files locally, you can open the index.html file in your preferred web browser to access the Restaurant Website.
